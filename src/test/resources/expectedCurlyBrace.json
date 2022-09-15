@@ -1,0 +1,64 @@
+[
+  {
+    "brand": "lada",
+    "models": [
+      [
+        "name": "vesta",
+        "trims": [
+          {
+            "name": "базовая"
+          },
+          {
+            "name": "средняя"
+          },
+          {
+            "name": "бизнес"
+          }
+        ]
+      },
+      {
+        "name": "x-ray",
+        "trims": [
+          {
+            "name": "максимальная"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "brand": "kia",
+    "models": [
+      {
+        "name": "rio",
+        "trims": [
+          {
+            "name": "люкс"
+          }
+        ]
+      },
+      {
+        "name": "sportage",
+        "trims": [
+          {
+            "name": "люкс"
+          },
+          {
+            "name": "супер-люкс"
+          }
+        ]
+      },
+      {
+        "name": "sorento",
+        "trims": [
+          {
+            "name": "люкс"
+          },
+          {
+            "name": "бизнес"
+          }
+        ]
+      }
+    ]
+  }
+]
